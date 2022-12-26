@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projectAkhir</string>
+    <string-array name="brpitem">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
